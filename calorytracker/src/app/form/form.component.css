@@ -1,0 +1,16 @@
+.form{
+    margin-left: 24%;
+}
+
+.form>div{
+    margin: 1em;
+}
+
+.add-btn{
+    /* text-align: center; */
+    background-color: orangered;
+    color:white;
+    border-radius: 0px;
+    margin-left: 25%;
+    padding: 0.5em;
+}
